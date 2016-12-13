@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 23baf2c9eb6f44461a41b18e28da2758
+timeCreated: 1476161579
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Hijrnotes PERSONAL USE ONLY 01
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
